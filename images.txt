@@ -2,4 +2,4 @@ mihomo
 #支持私库
 metacubex/mihomo:latest
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
+--platform=linux/amd64
